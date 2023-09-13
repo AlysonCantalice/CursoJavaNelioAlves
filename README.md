@@ -4,7 +4,7 @@ Este repositório se trata de um conjunto de soluções que elaborei para os exe
 
 # Requisitos
 
-Para rodar qualquer código deste repertório, é necessário ter o Java 17 (LTS) instalado em sua máquina. O Java que utilizei foi o Java Azul Zulu 17.0.7 (LTS) ([link](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu)), mas não deve ser necessário ter esta exata versão para que os projetos funcionem.
+Para rodar qualquer código deste repositório, é necessário ter o Java 17 (LTS) instalado em sua máquina. O Java que utilizei foi o Java Azul Zulu 17.0.7 (LTS) ([link](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu)), mas não deve ser necessário ter esta exata versão para que os projetos funcionem.
 
 Além disso, como se trata de arquivos *src*, é necessário também ter uma IDE capaz de interpretar os códigos, sendo o **ECLIPSE IDE** ([link](https://www.eclipse.org/downloads/)) a minha escolha.
 
